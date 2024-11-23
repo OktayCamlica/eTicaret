@@ -1,0 +1,1 @@
+Bu proje, Java programlama dili kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Uygulama, temel e-ticaret işlevlerini (örneğin ürün listeleme, kullanıcı kaydı ve alışveriş sepeti) kapsamak üzere tasarlanmıştır 
